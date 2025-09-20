@@ -9,7 +9,9 @@ Trying to use terraform integrating with VS code (tried to call static web page 
 -Installing the the terraform and initialize environment and validate using below commands
 
 $terraform init
+
 $terraform validate
+
 $terraform plan
 
 $terraform apply
