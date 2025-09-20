@@ -8,7 +8,8 @@ Trying to use terraform integrating with VS code (tried to call static web page 
 -Crating and connecting the EC2 instance for ubuntu AMI
 -Installing the the terraform and initialize environment and validate using below commands
 
-$terraform inint
+$terraform init
 $terraform validate
 $terraform plan
+
 $terraform apply
